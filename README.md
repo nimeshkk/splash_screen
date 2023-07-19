@@ -1,3 +1,4 @@
+<img src="Screenshot (95).png" width="400" height="300"/>
 # splash_screen
 
 A new Flutter project.
